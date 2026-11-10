@@ -1,0 +1,6 @@
+{
+  "name": "LBG ARMY TOURNAMENT",
+  "description": "Professional Free Fire Esports Tournament Management App with Free and Paid matches, live room IDs, payment verification, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
